@@ -9,6 +9,8 @@ This is the Spring Boot backend for the SkillJournal app. It allows users to log
 - RESTful API
 - CORS enabled
 
+Also add a demo link
+https://drive.google.com/file/d/1NVl8ldUfHrmWri39vv74aPH12zXfU1hj/view?usp=drive_link
 ## 🛠 Tech Stack
 
 - Java 17
